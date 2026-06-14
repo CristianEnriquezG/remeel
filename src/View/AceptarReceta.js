@@ -6,6 +6,7 @@ import Paciente from '../Models/Paciente'
 import Medico from '../Models/Medico'
 
 const datosMedico =[
+
    new Medico(22357,'Nuñez','Carlos','Pediatra','example@example.com','firma'),
 ];
 const datosPaciente =[
